@@ -1,0 +1,25 @@
+div{
+    background: rgb(0,212,255);
+    background: linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(33,213,205,1) 100%, rgba(2,0,36,1) 100%);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table{
+    margin: auto;
+    width: 50%;
+}
+
+th{
+    color: Black;
+    height: 50px;
+    background-color: aliceblue;
+    font-size: 20px;
+    vertical-align: middle;
+}
+
+td{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    border: 1px solid white;
+}

@@ -1,0 +1,902 @@
+[
+  {
+    "PairName": "BTC_USD",
+    "PrevPrice": "32100",
+    "CurPrice": "32100"
+  },
+  {
+    "PairName": "BTC_EUR",
+    "PrevPrice": "26506.8",
+    "CurPrice": "26506.8"
+  },
+  {
+    "PairName": "BTC_GBP",
+    "PrevPrice": "22932.48",
+    "CurPrice": "22932.48"
+  },
+  {
+    "PairName": "BTC_UAH",
+    "PrevPrice": "899346.24",
+    "CurPrice": "899346.24"
+  },
+  {
+    "PairName": "BTC_USDT",
+    "PrevPrice": "31569.7",
+    "CurPrice": "31569.7"
+  },
+  {
+    "PairName": "ETH_USD",
+    "PrevPrice": "1908.1046",
+    "CurPrice": "1908.1046"
+  },
+  {
+    "PairName": "XRP_USD",
+    "PrevPrice": "0.59088343",
+    "CurPrice": "0.59088343"
+  },
+  {
+    "PairName": "BCH_USD",
+    "PrevPrice": "438.8223",
+    "CurPrice": "438.8223"
+  },
+  {
+    "PairName": "EOS_USD",
+    "PrevPrice": "3.473968",
+    "CurPrice": "3.473968"
+  },
+  {
+    "PairName": "LTC_USD",
+    "PrevPrice": "121.421565",
+    "CurPrice": "121.421565"
+  },
+  {
+    "PairName": "TRX_USD",
+    "PrevPrice": "0.0528",
+    "CurPrice": "0.0528"
+  },
+  {
+    "PairName": "ADA_BTC",
+    "PrevPrice": "0.00003523",
+    "CurPrice": "0.00003523"
+  },
+  {
+    "PairName": "ADA_USDT",
+    "PrevPrice": "1.1098",
+    "CurPrice": "1.1098"
+  },
+  {
+    "PairName": "ADA_USD",
+    "PrevPrice": "1.1333",
+    "CurPrice": "1.1333"
+  },
+  {
+    "PairName": "ALGO_BTC",
+    "PrevPrice": "0.00002419",
+    "CurPrice": "0.00002419"
+  },
+  {
+    "PairName": "ALGO_USDT",
+    "PrevPrice": "0.76084841",
+    "CurPrice": "0.76084841"
+  },
+  {
+    "PairName": "ALGO_RUB",
+    "PrevPrice": "56.468811",
+    "CurPrice": "56.468811"
+  },
+  {
+    "PairName": "ALGO_EUR",
+    "PrevPrice": "0.64663066",
+    "CurPrice": "0.64663066"
+  },
+  {
+    "PairName": "ATOM_BTC",
+    "PrevPrice": "0.0002941",
+    "CurPrice": "0.0002941"
+  },
+  {
+    "PairName": "ATOM_USD",
+    "PrevPrice": "9.2235",
+    "CurPrice": "9.2235"
+  },
+  {
+    "PairName": "ATOM_EUR",
+    "PrevPrice": "7.897397",
+    "CurPrice": "7.897397"
+  },
+  {
+    "PairName": "BCH_RUB",
+    "PrevPrice": "31979.38",
+    "CurPrice": "31979.38"
+  },
+  {
+    "PairName": "BCH_EUR",
+    "PrevPrice": "362.4288",
+    "CurPrice": "362.4288"
+  },
+  {
+    "PairName": "BCH_UAH",
+    "PrevPrice": "12309.9401",
+    "CurPrice": "12309.9401"
+  },
+  {
+    "PairName": "BCH_GBP",
+    "PrevPrice": "314.41964122",
+    "CurPrice": "314.41964122"
+  },
+  {
+    "PairName": "BCH_BTC",
+    "PrevPrice": "0.01370236",
+    "CurPrice": "0.01370236"
+  },
+  {
+    "PairName": "BCH_ETH",
+    "PrevPrice": "0.230441",
+    "CurPrice": "0.230441"
+  },
+  {
+    "PairName": "BCH_USDT",
+    "PrevPrice": "431.6277",
+    "CurPrice": "431.6277"
+  },
+  {
+    "PairName": "BTC_RUB",
+    "PrevPrice": "2336131.29",
+    "CurPrice": "2336131.29"
+  },
+  {
+    "PairName": "BTC_PLN",
+    "PrevPrice": "95965.18",
+    "CurPrice": "95965.18"
+  },
+  {
+    "PairName": "BTC_KZT",
+    "PrevPrice": "13549630",
+    "CurPrice": "13549630"
+  },
+  {
+    "PairName": "BTCV_BTC",
+    "PrevPrice": "0.00088215",
+    "CurPrice": "0.00088215"
+  },
+  {
+    "PairName": "BTG_USD",
+    "PrevPrice": "34.132677",
+    "CurPrice": "34.132677"
+  },
+  {
+    "PairName": "BTG_BTC",
+    "PrevPrice": "0.00107148",
+    "CurPrice": "0.00107148"
+  },
+  {
+    "PairName": "BTT_RUB",
+    "PrevPrice": "0.14800002",
+    "CurPrice": "0.14800002"
+  },
+  {
+    "PairName": "BTT_BTC",
+    "PrevPrice": "0.00000006",
+    "CurPrice": "0.00000006"
+  },
+  {
+    "PairName": "CHZ_BTC",
+    "PrevPrice": "0.00000664",
+    "CurPrice": "0.00000664"
+  },
+  {
+    "PairName": "CRON_BTC",
+    "PrevPrice": "0.00004894",
+    "CurPrice": "0.00004894"
+  },
+  {
+    "PairName": "CRON_ETH",
+    "PrevPrice": "0.00081948",
+    "CurPrice": "0.00081948"
+  },
+  {
+    "PairName": "CRON_USDT",
+    "PrevPrice": "1.53753821",
+    "CurPrice": "1.53753821"
+  },
+  {
+    "PairName": "DAI_USD",
+    "PrevPrice": "1.017245",
+    "CurPrice": "1.017245"
+  },
+  {
+    "PairName": "DAI_RUB",
+    "PrevPrice": "73.536042",
+    "CurPrice": "73.536042"
+  },
+  {
+    "PairName": "DAI_BTC",
+    "PrevPrice": "0.00003171",
+    "CurPrice": "0.00003171"
+  },
+  {
+    "PairName": "DAI_ETH",
+    "PrevPrice": "0.00052522",
+    "CurPrice": "0.00052522"
+  },
+  {
+    "PairName": "DASH_USD",
+    "PrevPrice": "118.293556",
+    "CurPrice": "118.293556"
+  },
+  {
+    "PairName": "DASH_RUB",
+    "PrevPrice": "8588.7435",
+    "CurPrice": "8588.7435"
+  },
+  {
+    "PairName": "DASH_UAH",
+    "PrevPrice": "3314.8765",
+    "CurPrice": "3314.8765"
+  },
+  {
+    "PairName": "DASH_BTC",
+    "PrevPrice": "0.00367892",
+    "CurPrice": "0.00367892"
+  },
+  {
+    "PairName": "DASH_USDT",
+    "PrevPrice": "116.529115",
+    "CurPrice": "116.529115"
+  },
+  {
+    "PairName": "DCR_BTC",
+    "PrevPrice": "0.00330362",
+    "CurPrice": "0.00330362"
+  },
+  {
+    "PairName": "DOGE_USD",
+    "PrevPrice": "0.18917402",
+    "CurPrice": "0.18917402"
+  },
+  {
+    "PairName": "DOGE_BTC",
+    "PrevPrice": "0.00000589",
+    "CurPrice": "0.00000589"
+  },
+  {
+    "PairName": "DOGE_EUR",
+    "PrevPrice": "0.1559423",
+    "CurPrice": "0.1559423"
+  },
+  {
+    "PairName": "DOGE_GBP",
+    "PrevPrice": "0.13469301",
+    "CurPrice": "0.13469301"
+  },
+  {
+    "PairName": "DOT_BTC",
+    "PrevPrice": "0.00048129",
+    "CurPrice": "0.00048129"
+  },
+  {
+    "PairName": "DOT_USDT",
+    "PrevPrice": "14.3799",
+    "CurPrice": "14.3799"
+  },
+  {
+    "PairName": "DOT_USD",
+    "PrevPrice": "16.11",
+    "CurPrice": "16.11"
+  },
+  {
+    "PairName": "EOS_EUR",
+    "PrevPrice": "2.898218",
+    "CurPrice": "2.898218"
+  },
+  {
+    "PairName": "EOS_BTC",
+    "PrevPrice": "0.00010847",
+    "CurPrice": "0.00010847"
+  },
+  {
+    "PairName": "ETC_USD",
+    "PrevPrice": "37.769137",
+    "CurPrice": "37.769137"
+  },
+  {
+    "PairName": "ETC_RUB",
+    "PrevPrice": "2743.0323",
+    "CurPrice": "2743.0323"
+  },
+  {
+    "PairName": "ETC_BTC",
+    "PrevPrice": "0.00117888",
+    "CurPrice": "0.00117888"
+  },
+  {
+    "PairName": "ETC_USDT",
+    "PrevPrice": "37",
+    "CurPrice": "37"
+  },
+  {
+    "PairName": "ETH_USDT",
+    "PrevPrice": "1874.0167",
+    "CurPrice": "1874.0167"
+  },
+  {
+    "PairName": "ETH_BTC",
+    "PrevPrice": "0.05944799",
+    "CurPrice": "0.05944799"
+  },
+  {
+    "PairName": "ETH_EUR",
+    "PrevPrice": "1574.7277",
+    "CurPrice": "1574.7277"
+  },
+  {
+    "PairName": "ETH_GBP",
+    "PrevPrice": "1363.8971",
+    "CurPrice": "1363.8971"
+  },
+  {
+    "PairName": "ETH_RUB",
+    "PrevPrice": "138856",
+    "CurPrice": "138856"
+  },
+  {
+    "PairName": "ETH_UAH",
+    "PrevPrice": "53393.4817",
+    "CurPrice": "53393.4817"
+  },
+  {
+    "PairName": "ETH_PLN",
+    "PrevPrice": "4944",
+    "CurPrice": "4944"
+  },
+  {
+    "PairName": "ETH_KZT",
+    "PrevPrice": "824084.47",
+    "CurPrice": "824084.47"
+  },
+  {
+    "PairName": "ETH_LTC",
+    "PrevPrice": "15.69054",
+    "CurPrice": "15.69054"
+  },
+  {
+    "PairName": "ETZ_BTC",
+    "PrevPrice": "0.00000009",
+    "CurPrice": "0.00000009"
+  },
+  {
+    "PairName": "EXM_BTC",
+    "PrevPrice": "0.0000026",
+    "CurPrice": "0.0000026"
+  },
+  {
+    "PairName": "EXM_ETH",
+    "PrevPrice": "0.0000434",
+    "CurPrice": "0.0000434"
+  },
+  {
+    "PairName": "EXM_USD",
+    "PrevPrice": "0.08379202",
+    "CurPrice": "0.08379202"
+  },
+  {
+    "PairName": "EXM_USDT",
+    "PrevPrice": "0.08140899",
+    "CurPrice": "0.08140899"
+  },
+  {
+    "PairName": "EXM_RUB",
+    "PrevPrice": "6.04",
+    "CurPrice": "6.04"
+  },
+  {
+    "PairName": "GAS_USD",
+    "PrevPrice": "4.5",
+    "CurPrice": "4.5"
+  },
+  {
+    "PairName": "GAS_BTC",
+    "PrevPrice": "0.00013554",
+    "CurPrice": "0.00013554"
+  },
+  {
+    "PairName": "GNY_BTC",
+    "PrevPrice": "0.00001501",
+    "CurPrice": "0.00001501"
+  },
+  {
+    "PairName": "GUSD_USD",
+    "PrevPrice": "1.00084",
+    "CurPrice": "1.00084"
+  },
+  {
+    "PairName": "GUSD_RUB",
+    "PrevPrice": "72.37196416",
+    "CurPrice": "72.37196416"
+  },
+  {
+    "PairName": "GUSD_BTC",
+    "PrevPrice": "0.00003074",
+    "CurPrice": "0.00003074"
+  },
+  {
+    "PairName": "IQN_BTC",
+    "PrevPrice": "0.0000556",
+    "CurPrice": "0.0000556"
+  },
+  {
+    "PairName": "IQN_ETH",
+    "PrevPrice": "0.0009138",
+    "CurPrice": "0.0009138"
+  },
+  {
+    "PairName": "IQN_USDT",
+    "PrevPrice": "1.7571273",
+    "CurPrice": "1.7571273"
+  },
+  {
+    "PairName": "HAI_BTC",
+    "PrevPrice": "0.0000039",
+    "CurPrice": "0.0000039"
+  },
+  {
+    "PairName": "HP_BTC",
+    "PrevPrice": "0.00000003",
+    "CurPrice": "0.00000003"
+  },
+  {
+    "PairName": "HB_BTC",
+    "PrevPrice": "0.00000008",
+    "CurPrice": "0.00000008"
+  },
+  {
+    "PairName": "LINK_BTC",
+    "PrevPrice": "0.00052782",
+    "CurPrice": "0.00052782"
+  },
+  {
+    "PairName": "LSK_BTC",
+    "PrevPrice": "0.00009468",
+    "CurPrice": "0.00009468"
+  },
+  {
+    "PairName": "LTC_RUB",
+    "PrevPrice": "8840.9912",
+    "CurPrice": "8840.9912"
+  },
+  {
+    "PairName": "LTC_EUR",
+    "PrevPrice": "100.249276",
+    "CurPrice": "100.249276"
+  },
+  {
+    "PairName": "LTC_UAH",
+    "PrevPrice": "3406.5829",
+    "CurPrice": "3406.5829"
+  },
+  {
+    "PairName": "LTC_GBP",
+    "PrevPrice": "86.59570592",
+    "CurPrice": "86.59570592"
+  },
+  {
+    "PairName": "LTC_BTC",
+    "PrevPrice": "0.00377868",
+    "CurPrice": "0.00377868"
+  },
+  {
+    "PairName": "MKR_BTC",
+    "PrevPrice": "0.06584642",
+    "CurPrice": "0.06584642"
+  },
+  {
+    "PairName": "MKR_DAI",
+    "PrevPrice": "2127.43961922",
+    "CurPrice": "2127.43961922"
+  },
+  {
+    "PairName": "MNC_USD",
+    "PrevPrice": "0.00251252",
+    "CurPrice": "0.00251252"
+  },
+  {
+    "PairName": "MNC_BTC",
+    "PrevPrice": "0.00000008",
+    "CurPrice": "0.00000008"
+  },
+  {
+    "PairName": "MNC_ETH",
+    "PrevPrice": "0.0000013",
+    "CurPrice": "0.0000013"
+  },
+  {
+    "PairName": "NEO_USD",
+    "PrevPrice": "30.411124",
+    "CurPrice": "30.411124"
+  },
+  {
+    "PairName": "NEO_RUB",
+    "PrevPrice": "2230.8229",
+    "CurPrice": "2230.8229"
+  },
+  {
+    "PairName": "NEO_BTC",
+    "PrevPrice": "0.00095049",
+    "CurPrice": "0.00095049"
+  },
+  {
+    "PairName": "OMG_USD",
+    "PrevPrice": "3.43535519",
+    "CurPrice": "3.43535519"
+  },
+  {
+    "PairName": "OMG_BTC",
+    "PrevPrice": "0.00010453",
+    "CurPrice": "0.00010453"
+  },
+  {
+    "PairName": "OMG_ETH",
+    "PrevPrice": "0.00175647",
+    "CurPrice": "0.00175647"
+  },
+  {
+    "PairName": "ONE_BTC",
+    "PrevPrice": "0.00000199",
+    "CurPrice": "0.00000199"
+  },
+  {
+    "PairName": "ONG_BTC",
+    "PrevPrice": "0.00001444",
+    "CurPrice": "0.00001444"
+  },
+  {
+    "PairName": "ONT_BTC",
+    "PrevPrice": "0.00001911",
+    "CurPrice": "0.00001911"
+  },
+  {
+    "PairName": "PRQ_BTC",
+    "PrevPrice": "0.00001346",
+    "CurPrice": "0.00001346"
+  },
+  {
+    "PairName": "PRQ_USDT",
+    "PrevPrice": "0.43",
+    "CurPrice": "0.43"
+  },
+  {
+    "PairName": "PTI_BTC",
+    "PrevPrice": "0.00000001",
+    "CurPrice": "0.00000001"
+  },
+  {
+    "PairName": "QTUM_USD",
+    "PrevPrice": "5.266444",
+    "CurPrice": "5.266444"
+  },
+  {
+    "PairName": "QTUM_BTC",
+    "PrevPrice": "0.00016396",
+    "CurPrice": "0.00016396"
+  },
+  {
+    "PairName": "QTUM_ETH",
+    "PrevPrice": "0.00276068",
+    "CurPrice": "0.00276068"
+  },
+  {
+    "PairName": "ROOBEE_BTC",
+    "PrevPrice": "0.00000011",
+    "CurPrice": "0.00000011"
+  },
+  {
+    "PairName": "SMART_USD",
+    "PrevPrice": "0.00653064",
+    "CurPrice": "0.00653064"
+  },
+  {
+    "PairName": "SMART_RUB",
+    "PrevPrice": "0.49311276",
+    "CurPrice": "0.49311276"
+  },
+  {
+    "PairName": "SMART_EUR",
+    "PrevPrice": "0.00561825",
+    "CurPrice": "0.00561825"
+  },
+  {
+    "PairName": "SMART_BTC",
+    "PrevPrice": "0.0000002",
+    "CurPrice": "0.0000002"
+  },
+  {
+    "PairName": "TRX_EUR",
+    "PrevPrice": "0.04366886",
+    "CurPrice": "0.04366886"
+  },
+  {
+    "PairName": "TRX_RUB",
+    "PrevPrice": "3.842792",
+    "CurPrice": "3.842792"
+  },
+  {
+    "PairName": "TRX_UAH",
+    "PrevPrice": "1.48011536",
+    "CurPrice": "1.48011536"
+  },
+  {
+    "PairName": "TRX_BTC",
+    "PrevPrice": "0.00000165",
+    "CurPrice": "0.00000165"
+  },
+  {
+    "PairName": "UNI_BTC",
+    "PrevPrice": "0.00048889",
+    "CurPrice": "0.00048889"
+  },
+  {
+    "PairName": "USDC_USD",
+    "PrevPrice": "1.016953",
+    "CurPrice": "1.016953"
+  },
+  {
+    "PairName": "USDC_BTC",
+    "PrevPrice": "0.0000315",
+    "CurPrice": "0.0000315"
+  },
+  {
+    "PairName": "USDC_ETH",
+    "PrevPrice": "0.0005351",
+    "CurPrice": "0.0005351"
+  },
+  {
+    "PairName": "USDC_USDT",
+    "PrevPrice": "1.00041",
+    "CurPrice": "1.00041"
+  },
+  {
+    "PairName": "USDT_USD",
+    "PrevPrice": "1.018354",
+    "CurPrice": "1.018354"
+  },
+  {
+    "PairName": "USDT_RUB",
+    "PrevPrice": "74.098036",
+    "CurPrice": "74.098036"
+  },
+  {
+    "PairName": "USDT_EUR",
+    "PrevPrice": "0.84175789",
+    "CurPrice": "0.84175789"
+  },
+  {
+    "PairName": "USDT_GBP",
+    "PrevPrice": "0.727",
+    "CurPrice": "0.727"
+  },
+  {
+    "PairName": "USDT_UAH",
+    "PrevPrice": "28.599696",
+    "CurPrice": "28.599696"
+  },
+  {
+    "PairName": "USDT_KZT",
+    "PrevPrice": "428.217",
+    "CurPrice": "428.217"
+  },
+  {
+    "PairName": "VITAE_USDT",
+    "PrevPrice": "0.925",
+    "CurPrice": "0.925"
+  },
+  {
+    "PairName": "VITAE_BTC",
+    "PrevPrice": "0.00002943",
+    "CurPrice": "0.00002943"
+  },
+  {
+    "PairName": "VITAE_ETH",
+    "PrevPrice": "0.00049",
+    "CurPrice": "0.00049"
+  },
+  {
+    "PairName": "VLX_BTC",
+    "PrevPrice": "0.00000124",
+    "CurPrice": "0.00000124"
+  },
+  {
+    "PairName": "WAVES_USD",
+    "PrevPrice": "13.682481",
+    "CurPrice": "13.682481"
+  },
+  {
+    "PairName": "WAVES_RUB",
+    "PrevPrice": "993.35532",
+    "CurPrice": "993.35532"
+  },
+  {
+    "PairName": "WAVES_BTC",
+    "PrevPrice": "0.0004295",
+    "CurPrice": "0.0004295"
+  },
+  {
+    "PairName": "WAVES_ETH",
+    "PrevPrice": "0.00721678",
+    "CurPrice": "0.00721678"
+  },
+  {
+    "PairName": "WXT_BTC",
+    "PrevPrice": "0.00000013",
+    "CurPrice": "0.00000013"
+  },
+  {
+    "PairName": "WXT_USDT",
+    "PrevPrice": "0.00410099",
+    "CurPrice": "0.00410099"
+  },
+  {
+    "PairName": "XEM_USD",
+    "PrevPrice": "0.10418788",
+    "CurPrice": "0.10418788"
+  },
+  {
+    "PairName": "XEM_EUR",
+    "PrevPrice": "0.08851505",
+    "CurPrice": "0.08851505"
+  },
+  {
+    "PairName": "XEM_UAH",
+    "PrevPrice": "2.933775",
+    "CurPrice": "2.933775"
+  },
+  {
+    "PairName": "XEM_BTC",
+    "PrevPrice": "0.00000322",
+    "CurPrice": "0.00000322"
+  },
+  {
+    "PairName": "XLM_USD",
+    "PrevPrice": "0.2364063",
+    "CurPrice": "0.2364063"
+  },
+  {
+    "PairName": "XLM_RUB",
+    "PrevPrice": "17.06151",
+    "CurPrice": "17.06151"
+  },
+  {
+    "PairName": "XLM_BTC",
+    "PrevPrice": "0.0000073",
+    "CurPrice": "0.0000073"
+  },
+  {
+    "PairName": "XMR_USD",
+    "PrevPrice": "208.656656",
+    "CurPrice": "208.656656"
+  },
+  {
+    "PairName": "XMR_RUB",
+    "PrevPrice": "15160.3711",
+    "CurPrice": "15160.3711"
+  },
+  {
+    "PairName": "XMR_EUR",
+    "PrevPrice": "172.5442",
+    "CurPrice": "172.5442"
+  },
+  {
+    "PairName": "XMR_UAH",
+    "PrevPrice": "5853.6262",
+    "CurPrice": "5853.6262"
+  },
+  {
+    "PairName": "XMR_BTC",
+    "PrevPrice": "0.00649837",
+    "CurPrice": "0.00649837"
+  },
+  {
+    "PairName": "XMR_ETH",
+    "PrevPrice": "0.10938845",
+    "CurPrice": "0.10938845"
+  },
+  {
+    "PairName": "XRP_EUR",
+    "PrevPrice": "0.48816171",
+    "CurPrice": "0.48816171"
+  },
+  {
+    "PairName": "XRP_RUB",
+    "PrevPrice": "42.973293",
+    "CurPrice": "42.973293"
+  },
+  {
+    "PairName": "XRP_UAH",
+    "PrevPrice": "16.527675",
+    "CurPrice": "16.527675"
+  },
+  {
+    "PairName": "XRP_GBP",
+    "PrevPrice": "0.42191193",
+    "CurPrice": "0.42191193"
+  },
+  {
+    "PairName": "XRP_BTC",
+    "PrevPrice": "0.00001838",
+    "CurPrice": "0.00001838"
+  },
+  {
+    "PairName": "XRP_USDT",
+    "PrevPrice": "0.58158454",
+    "CurPrice": "0.58158454"
+  },
+  {
+    "PairName": "XRP_ETH",
+    "PrevPrice": "0.00030955",
+    "CurPrice": "0.00030955"
+  },
+  {
+    "PairName": "XTZ_USD",
+    "PrevPrice": "3.0038",
+    "CurPrice": "3.0038"
+  },
+  {
+    "PairName": "XTZ_RUB",
+    "PrevPrice": "203",
+    "CurPrice": "203"
+  },
+  {
+    "PairName": "XTZ_BTC",
+    "PrevPrice": "0.00008084",
+    "CurPrice": "0.00008084"
+  },
+  {
+    "PairName": "XYM_BTC",
+    "PrevPrice": "0.00001242",
+    "CurPrice": "0.00001242"
+  },
+  {
+    "PairName": "YFI_BTC",
+    "PrevPrice": "0.86",
+    "CurPrice": "0.86"
+  },
+  {
+    "PairName": "ZEC_USD",
+    "PrevPrice": "99.985949",
+    "CurPrice": "99.985949"
+  },
+  {
+    "PairName": "ZEC_RUB",
+    "PrevPrice": "7307.4888",
+    "CurPrice": "7307.4888"
+  },
+  {
+    "PairName": "ZEC_EUR",
+    "PrevPrice": "83.823927",
+    "CurPrice": "83.823927"
+  },
+  {
+    "PairName": "ZEC_BTC",
+    "PrevPrice": "0.00313055",
+    "CurPrice": "0.00313055"
+  },
+  {
+    "PairName": "ZRX_USD",
+    "PrevPrice": "0.59751131",
+    "CurPrice": "0.59751131"
+  },
+  {
+    "PairName": "ZRX_BTC",
+    "PrevPrice": "0.00001874",
+    "CurPrice": "0.00001874"
+  },
+  {
+    "PairName": "ZRX_ETH",
+    "PrevPrice": "0.00031487",
+    "CurPrice": "0.00031487"
+  },
+  {
+    "PairName": "ZAG_BTC",
+    "PrevPrice": "0.00002208",
+    "CurPrice": "0.00002208"
+  }
+]

@@ -1,0 +1,14 @@
+<div style="display: block" *ngIf='signalRService.data'>
+  <table>
+    <th>Pair Name</th>
+    <th>5 min Period <br> Start Price</th>
+    <th>5 min Period <br> End Price</th>
+    <th>Percentage</th>
+    <tr *ngFor="let pair of signalRService.data">
+      <td>{{pair.pairName}}</td>
+      <td>{{pair.prevPrice | number:'1.0-20'}}</td>
+      <td>{{pair.curPrice | number:'1.0-20'}}</td>
+      <td>{{pair.percentage | number:'1.0-20'}}%</td>
+    </tr>
+  </table>
+</div>
