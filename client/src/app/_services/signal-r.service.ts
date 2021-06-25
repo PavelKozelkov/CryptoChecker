@@ -23,12 +23,13 @@ export class SignalRService {
 
   public addTransferChartDataListener = () => {
     this.hubConnection?.on('transfercryptodata', (data) => {
-      this.data = data;
       data = data.sort(function (a:any,b:any){
         var x = a['percentage']; var y = b['percentage'];
         return ((x < y) ? 1 : ((x > y) ? -1 : 0));
       });
-      console.log(data);
+      if(JSON.stringify(data) !== JSON.stringify(this.data)){
+        this.data = data;
+      } 
     });
   }
 

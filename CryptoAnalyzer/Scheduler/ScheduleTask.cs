@@ -1,5 +1,7 @@
 ﻿using CryptoAnalyzer.Interfaces;
 using CryptoAnalyzer.Models;
+using CryptoAnalyzer.SignalR;
+using Microsoft.AspNetCore.SignalR;
 using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json.Linq;
 using System;
@@ -13,6 +15,7 @@ namespace CryptoAnalyzer.Scheduler
     public class ScheduleTask : ScheduledProcessor
     {
         private readonly ICryptoPairService _cryptoPairService;
+
         public ScheduleTask(IServiceScopeFactory serviceScopeFactory, ICryptoPairService cryptoPairService) : base(serviceScopeFactory)
         {
             _cryptoPairService = cryptoPairService;
@@ -38,6 +41,7 @@ namespace CryptoAnalyzer.Scheduler
 
                 CryptoPair updatedCp = await _cryptoPairService.UpdateCryptoPair(cp.Id, cp);
             }
+
             return Task.CompletedTask;
         }
     }
